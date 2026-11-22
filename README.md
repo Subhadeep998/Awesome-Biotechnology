@@ -70,7 +70,7 @@ flowchart LR
 - [Khan Academy — Biology](https://www.khanacademy.org/science/biology) — short, clear explainers; great for revision.
 - [iBiology](https://www.ibiology.org) — free talks by leading scientists, from Nobel laureates to early-career researchers.
 - [HHMI BioInteractive](https://www.biointeractive.org) — animations, virtual labs and case studies.
-- [NPTEL — Biotechnology](https://nptel.ac.in/course.html) — IIT/IISc courses with optional certification exams (India).
+- [NPTEL — Biotechnology](https://nptel.ac.in) — IIT/IISc courses with optional certification exams (India).
 - [SWAYAM](https://swayam.gov.in) — UGC/AICTE-approved MOOCs, many credit-transferable in Indian universities.
 
 **Bioinformatics and genomics**
@@ -163,7 +163,6 @@ flowchart LR
 - [OpenWetWare](https://openwetware.org) — community lab wiki.
 - [Addgene Protocols & Blog](https://www.addgene.org/protocols/) — cloning, CRISPR, viral vectors explained.
 - [NEB Technical Reference](https://www.neb.com/en/tools-and-resources) — PCR, restriction digests and troubleshooting.
-- [Thermo Fisher Learning Centers](https://www.thermofisher.com/in/en/home/support/learning-centers.html)
 - [WHO Laboratory Biosafety Manual (4th ed.)](https://www.who.int/publications/i/item/9789240011311)
 
 ---
@@ -211,9 +210,7 @@ flowchart LR
 
 - [Nature Podcast](https://www.nature.com/nature/podcast)
 - [The Long Run (Timmerman Report)](https://timmermanreport.com/the-long-run/) — biotech founders and leaders.
-- [a16z Bio + Health](https://a16z.com/podcasts/a16z-bio-health/)
-- [iBiology on YouTube](https://www.youtube.com/@iBiology)
-- [Ninja Nerd](https://www.youtube.com/@NinjaNerdScience) — physiology and biochemistry, whiteboard style.
+- [Ninja Nerd](https://www.ninjanerd.org) — physiology and biochemistry, whiteboard style.
 - [Amoeba Sisters](https://www.youtube.com/@AmoebaSisters) — friendly, quick biology concepts.
 - [StatQuest](https://www.youtube.com/@statquest) — statistics and ML explained for biologists.
 
@@ -221,7 +218,7 @@ flowchart LR
 
 ## ⚖️ Regulation, IP and bioethics
 
-- [US FDA — Biologics (CBER)](https://www.fda.gov/vaccines-blood-biologics) · [EMA](https://www.ema.europa.eu)
+- [US FDA](https://www.fda.gov) · [EMA](https://www.ema.europa.eu)
 - [CDSCO (India)](https://cdsco.gov.in) — drugs, devices and clinical-trial approvals.
 - [Department of Biotechnology, Govt. of India](https://dbtindia.gov.in) · [BIRAC](https://birac.nic.in) — funding for Indian biotech start-ups.
 - [ICMR Bioethics Unit — National Ethical Guidelines](https://ethics.ncdirindia.org)
@@ -235,7 +232,7 @@ flowchart LR
 ## 💼 Careers, exams and fellowships (India + global)
 
 **Indian entrance exams and fellowships**
-- [GAT-B / BET (NTA)](https://exams.nta.ac.in/GATB-BET/) — DBT-supported PG admissions and JRF.
+- [GAT-B / BET (NTA)](https://nta.ac.in) — DBT-supported PG admissions and JRF.
 - [CSIR-NET Life Sciences](https://csirnet.nta.ac.in) — JRF and lectureship eligibility.
 - **GATE Biotechnology / Life Sciences** — the organising IIT and website change every year; search "GATE <year>" for the official portal.
 - [ICMR-JRF](https://www.icmr.gov.in)
@@ -260,7 +257,7 @@ flowchart LR
 - [Biostars](https://www.biostars.org) — Q&A for bioinformatics.
 - [SEQanswers](https://www.seqanswers.com) — sequencing community.
 - [r/bioinformatics](https://www.reddit.com/r/bioinformatics/) · [r/biotech](https://www.reddit.com/r/biotech/)
-- [ISCB Student Council](https://www.iscb.org/iscb-student-council)
+- [ISCB — International Society for Computational Biology](https://www.iscb.org)
 
 ---
 
