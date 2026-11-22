@@ -110,4 +110,4 @@
 | 2026-11-18 | [In the non-canonical NF-κB pathway, binding of the initiating kinase NIK to the pathway's target, p100, serves a nonenzymatic "licensing" role](https://www.biorxiv.org/content/10.64898/2026.11.16.766979v1) | Liang, X. et al. |
 
 ---
-<sub>Source: bioRxiv public API · generated 2026-11-22 08:28 UTC</sub>
+<sub>Source: bioRxiv public API · generated 2026-11-22 08:29 UTC</sub>
