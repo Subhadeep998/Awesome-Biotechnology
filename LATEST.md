@@ -1,6 +1,6 @@
 # 🆕 Latest in Biotechnology
 
-> Newest bioRxiv preprints, **2026-11-15 → 2026-11-22**. Refreshed automatically every Monday.
+> Newest bioRxiv preprints, **2026-11-16 → 2026-11-23**. Refreshed automatically every Monday.
 > Preprints are **not peer-reviewed** — read critically.
 
 [← Back to Awesome Biotechnology](README.md)
@@ -13,10 +13,10 @@
 | 2026-11-19 | [Disentangling genomic imprinting from indirect parental genetic effects on the human methylome](https://www.biorxiv.org/content/10.64898/2026.11.18.767489v1) | Galeano, F. A. et al. |
 | 2026-11-19 | [Generation of a Public Dataset for Etiological Subtyping with the Genomic Cluster Engine](https://www.biorxiv.org/content/10.64898/2026.11.18.767536v1) | Kubica, J. et al. |
 | 2026-11-19 | [Cell type-specific epigenomic variation and its association with genotype in the human breast](https://www.biorxiv.org/content/10.1101/2025.04.16.648998v5) | Hauduc, A. et al. |
+| 2026-11-19 | [Spatial and epigenetic programs underlie heterogeneous cellular senescence in the aging liver](https://www.biorxiv.org/content/10.64898/2026.11.18.767706v1) | Mamde, S. et al. |
+| 2026-11-19 | [AMBER: mapping accessible chromatin associations through barcode seed expansion](https://www.biorxiv.org/content/10.64898/2026.11.18.767643v1) | Tan, R. et al. |
+| 2026-11-19 | [Apples-to-apples transcriptomics: a parent-of-origin-resolved 'Granny Smith' genome reveals how reference choice shapes biological interpretation](https://www.biorxiv.org/content/10.64898/2026.11.17.767359v1) | Hargarten, H. et al. |
 | 2026-11-18 | [A large-scale multi-omics study of cortical miRNA dysregulation in Alzheimer's disease](https://www.biorxiv.org/content/10.64898/2026.11.16.767087v1) | Pishva, E. et al. |
-| 2026-11-18 | [The genetic regulation of thyroid hormones on immune and hematopoietic homeostasis: an integrative Mendelian randomization and colocalization study](https://www.biorxiv.org/content/10.64898/2026.11.16.767148v1) | Ansah, E. O. et al. |
-| 2026-11-18 | [Contrasting plasmid-host associations shape the distribution of enterotoxigenic E. coli (ETEC) colonization factors](https://www.biorxiv.org/content/10.64898/2026.11.16.767129v1) | Garcias, B. et al. |
-| 2026-11-18 | [pbzarr: cohort-scale storage and analysis of per-base genomic data with Zarr](https://www.biorxiv.org/content/10.64898/2026.11.16.767130v1) | Mirchandani, C. et al. |
 
 ## 🛠️ Synthetic Biology
 
@@ -55,7 +55,7 @@
 | 2026-11-19 | [Monolith, porous bead, membrane or fibre? A comparative characterisation of four oligo-dT affinity chromatography matrices for mRNA capture](https://www.biorxiv.org/content/10.64898/2026.11.17.767441v1) | Qu, J. et al. |
 | 2026-11-19 | [Temporal Structure of Environmental Noise Controls the Localization and Tracking of Populations of Chemotactic Microorganisms](https://www.biorxiv.org/content/10.64898/2026.05.07.723364v2) | Arencibia, G. et al. |
 | 2026-11-19 | [Engineering developmental transitions during human neurulation through modular integration of multimodal spatial cues](https://www.biorxiv.org/content/10.64898/2026.10.07.757222v2) | Hagiwara, M. et al. |
-| 2026-11-18 | [Location of maximum bending stress in tapered hollow plants: A case study on Moso bamboo (Phyllostachys edulis)](https://www.biorxiv.org/content/10.64898/2026.11.16.767008v1) | Chalermsin, C. L. et al. |
+| 2026-11-19 | [Pseudo-Central Retinal Blood Vessel in Pig, Sheep and Goat](https://www.biorxiv.org/content/10.64898/2026.11.18.767657v1) | Wang, X. et al. |
 
 ## 🎯 Cancer Biology
 
@@ -76,12 +76,12 @@
 |:--|:--|:--|
 | 2026-11-19 | [Keratinocyte IL-17RA signaling promotes neutrophil recruitment and clinical lesions in experimental epidermolysis bullosa](https://www.biorxiv.org/content/10.64898/2026.11.18.767503v1) | Jukic, S. et al. |
 | 2026-11-19 | [Homeostatic fibroblast niche collapse in clinically uninvolved skin defines a subclinical state of systemic sclerosis](https://www.biorxiv.org/content/10.64898/2026.11.05.764714v3) | Hu, A. K. et al. |
+| 2026-11-19 | [A single-cell transcriptomic atlas of T cells across murine lymphoid, mucosal, and gland tissues](https://www.biorxiv.org/content/10.64898/2026.11.18.767759v1) | Wang, X. et al. |
+| 2026-11-19 | [B cell tolerance is dysregulated in people with complex regional pain syndrome: A high-dimensional immunophenotyping study](https://www.biorxiv.org/content/10.64898/2026.11.18.760656v1) | Mason, A. C. et al. |
+| 2026-11-19 | [Filtration attenuates cannabis smoke-induced impacts on primary human airway epithelial cells](https://www.biorxiv.org/content/10.64898/2026.11.18.767664v1) | Shi, G. et al. |
+| 2026-11-19 | [IPF Patient Derived Lung Macrophages are Crucial In Signaling Fibroblast Activation and Disease Pathogenesis](https://www.biorxiv.org/content/10.64898/2026.11.18.767401v1) | Singh, A. et al. |
 | 2026-11-18 | [FOLR2 Identifies Functionally Distinct Decidual Macrophage Populations that Coordinate Immune and Tissue Remodelling During Human Labour](https://www.biorxiv.org/content/10.64898/2026.11.16.767055v1) | Paterson, E. O. et al. |
 | 2026-11-18 | [In vitro and in vivo validation of recombinant Syrian hamster interferon-α](https://www.biorxiv.org/content/10.64898/2026.11.12.766184v2) | Neven, V. et al. |
-| 2026-11-18 | [Spatial atlas of gut-draining lymph nodes reveals the developmental organization of intestinal tolerance and immunity](https://www.biorxiv.org/content/10.64898/2026.11.16.767093v1) | Lo, Y. et al. |
-| 2026-11-18 | [Continuous generation of short-lived resident effector CD8 T cells sustains alopecia areata](https://www.biorxiv.org/content/10.64898/2026.11.16.766888v1) | Lee, Y. et al. |
-| 2026-11-18 | [Cell identity and activation state determine the innate immune response to nanoplastics](https://www.biorxiv.org/content/10.64898/2026.11.16.767123v1) | Ignes-Romeu, A. et al. |
-| 2026-11-18 | [Switch from inflammatory signaling to excessive extracellular matrix remodeling in fibrotic fibroblasts attenuates monocyte tissue infiltration](https://www.biorxiv.org/content/10.64898/2026.11.17.767293v1) | de Winter, S. et al. |
 
 ## 🦠 Microbiology
 
@@ -94,7 +94,7 @@
 | 2026-11-19 | [Decoupled recovery of soil physicochemistry, microbiome and methane sink function during secondary forest succession in the Eastern Himalayas](https://www.biorxiv.org/content/10.64898/2026.10.04.753464v2) | Zhang, M. et al. |
 | 2026-11-19 | [Multireplicon plasmids show broad host distributions, high transfer potential, and are enriched in antimicrobial resistance genes](https://www.biorxiv.org/content/10.64898/2026.05.05.722934v2) | de Quinto, I. et al. |
 | 2026-11-19 | [Depolymerases unmask a conserved receptor to enable phage control of capsulated Acinetobacter baumannii](https://www.biorxiv.org/content/10.64898/2026.11.16.766953v2) | Kan, L. et al. |
-| 2026-11-18 | [In vivo crosslinking and cryo-EM analyses suggest a revised model of conjugative pilus biogenesis](https://www.biorxiv.org/content/10.64898/2026.11.16.767151v1) | Bloch, M. et al. |
+| 2026-11-19 | [Exploitative competition among different dormancy strategists shapes community diversity, recovery from perturbations and response to dispersal](https://www.biorxiv.org/content/10.64898/2026.11.18.767651v1) | Ulmer, A. et al. |
 
 ## 🔬 Molecular Biology
 
@@ -107,7 +107,7 @@
 | 2026-11-19 | [Modular split-trigger based cooperative activation platform for Cas13-12 tandem biosensing system](https://www.biorxiv.org/content/10.64898/2026.06.26.734747v3) | Sang, R. et al. |
 | 2026-11-19 | [Branched-Chain α-Keto Acid Mitochondrial Uptake Regulates Fatty Acid Metabolism in Adipose Tissue](https://www.biorxiv.org/content/10.64898/2026.11.15.766772v1) | Wang, Y. et al. |
 | 2026-11-19 | [Predicting conformational changes induced by biomolecular interactions](https://www.biorxiv.org/content/10.64898/2026.10.26.760299v2) | Bae, Y. et al. |
-| 2026-11-18 | [In the non-canonical NF-κB pathway, binding of the initiating kinase NIK to the pathway's target, p100, serves a nonenzymatic "licensing" role](https://www.biorxiv.org/content/10.64898/2026.11.16.766979v1) | Liang, X. et al. |
+| 2026-11-19 | [Development of a high-throughput protein array to discover selective dsRNA binding domain interactions](https://www.biorxiv.org/content/10.64898/2026.11.18.767677v1) | Zehrbach, N. et al. |
 
 ---
-<sub>Source: bioRxiv public API · generated 2026-11-22 08:29 UTC</sub>
+<sub>Source: bioRxiv public API · generated 2026-11-23 13:17 UTC</sub>
